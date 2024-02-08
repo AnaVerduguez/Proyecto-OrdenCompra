@@ -5,7 +5,8 @@ La tarea es crear un proyecto nuevo llamado ProyectoOrdenCompra de la siguiente 
 ● Se requiere crear la clase OrdenCompra con los siguientes campos privados:
 identificador tipo Integer autoincremental, descripcion String, fecha tipo Date,
 cliente del tipo Cliente y finalmente un atributo de tipo arreglo de productos con
-4 elementos: Producto[] productos.
+4 [Proyecto 1 - POO - Orden de Compra.pdf](https://github.com/AnaVerduguez/Proyecto-OrdenCompra/files/14212953/Proyecto.1.-.POO.-.Orden.de.Compra.pdf)
+elementos: Producto[] productos.
 
 ● En la clase OrdenCompra, crear constructor que inicialice solo la descripción.
 
